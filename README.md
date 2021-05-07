@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web Develop
 - 🌱 I’m currently learning AWS, Japanese
 - 💞️ I’m looking to collaborate on Web Coding
-- 📫 How to reach me
+- 📫 How to reach me sonvuhong.github.io
+- 🎃 My Shorten Url Website akii.tk
 
 <!---
 Parkboyoung11/Parkboyoung11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
