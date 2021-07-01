@@ -10,9 +10,9 @@ Parkboyoung11/Parkboyoung11 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<a href="https://github.com/Parkboyoung11">
+<!-- <a href="https://github.com/Parkboyoung11">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Parkboyoung11&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/Parkboyoung11">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parkboyoung11&count_private=true" />
-</a>
+</a> -->
